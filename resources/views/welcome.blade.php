@@ -26,7 +26,7 @@
              <tei-converter></tei-converter>
     </div>
     </body>
-        <script type="text/javascript" src="{{ asset(mix('js/app.js'))}}"></script>
+        <script type="text/javascript" src="{{ secure_asset(mix('js/app.js'))}}"></script>
 
 
 </html>
