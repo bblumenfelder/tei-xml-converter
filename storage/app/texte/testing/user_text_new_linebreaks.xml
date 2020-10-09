@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.hermeneus.eu/tei/schema/tei_hermeneus.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dummy Titel</title>
+                <author/>
+                <respStmt>
+                    <resp>compiled by</resp>
+                    <name>hermeneus (Benedikt Blumenfelder)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>published on hermeneus.eu by user user@domain.de</p>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Dummy Titel</title>
+                <title type="sub">Ein toller Untertitel</title>
+                <respStmt>
+                    <resp>text analyzed and edited by</resp>
+                    <name>user@domain.de</name>
+                </respStmt>
+                <biblScope>Buch X, Stelle y</biblScope>
+            </seriesStmt>
+            <sourceDesc>
+                <p>S. 343</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="textpart">
+                <p>
+                    <w>Etiam</w>
+                    <w>Marcus</w>
+                    <w>et</w>
+                    <w>Quintus</w>
+                    <w>thermas</w>
+                    <w>intrant</w>
+                    <lb n="{'hermeneus': '1', 'original': '1'}"> </lb>
+                    <w>et</w>
+                    <w>togas</w>
+                    <w>deponunt</w>
+                    <pc>.</pc>
+                    <w>Quintus</w>
+                    <pc>:</pc>
+                    <pc>„</pc>
+                    <w>Cratinus</w>
+                    <w>nos</w>
+                    <w>certe</w>
+                    <lb n="{'hermeneus': '2', 'original': '2'}"> </lb>
+                    <w>non</w>
+                    <w>cognoscit</w>
+                    <pc>,</pc>
+                    <w>si</w>
+                    <w>nos</w>
+                    <w>sine</w>
+                    <w>togis</w>
+                    <w>videt</w>
+                    <pc>.</pc>
+                    <lb n="{'hermeneus': '3', 'original': '3'}"> </lb>
+                    <w>Gladiatores</w>
+                    <w>memoriam</w>
+                    <w>bonam</w>
+                    <w>non</w>
+                    <w>habent</w>
+                    <pc>.</pc>
+                    <pc>“</pc>
+                    <lb n="{'hermeneus': '4', 'original': '4'}"> </lb>
+                    <w>Intus</w>
+                    <w>Cratinum</w>
+                    <w>vident</w>
+                    <pc>:</pc>
+                    <w>Cum</w>
+                    <w>adulescentibus</w>
+                    <lb n="{'hermeneus': '5', 'original': '5'}"> </lb>
+                    <w>sermonem</w>
+                    <w>habet</w>
+                    <pc>.</pc>
+                    <w>Cratinus</w>
+                    <w>magna</w>
+                    <w>voce</w>
+                    <w>docet</w>
+                    <pc>:</pc>
+                    <lb n="{'hermeneus': '6', 'original': '6'}"> </lb>
+                    <pc>„</pc>
+                    <w>Adulescentes</w>
+                    <w>parvi</w>
+                    <w>parvis</w>
+                    <w>plumbis</w>
+                    <w>corpora</w>
+                    <w>exercent</w>
+                    <pc>,</pc>
+                    <lb n="{'hermeneus': '7', 'original': '7'}"> </lb>
+                    <w>gladiatores</w>
+                    <w>magni</w>
+                    <w>magnis</w>
+                    <w>plumbis</w>
+                    <pc>!</pc>
+                    <pc>“</pc>
+                    <w>Tum</w>
+                    <w>tunicam</w>
+                    <w>deponit</w>
+                    <lb n="{'hermeneus': '8', 'original': '8'}"> </lb>
+                    <w>et</w>
+                    <w>plumbum</w>
+                    <w>magnum</w>
+                    <w>sumit</w>
+                    <pc>.</pc>
+                    <w>Subito</w>
+                    <w>autem</w>
+                    <w>dolore</w>
+                    <w>clamat</w>
+                    <pc>:</pc>
+                    <lb n="{'hermeneus': '9', 'original': '9'}"> </lb>
+                    <pc>„</pc>
+                    <w>Ei1</w>
+                    <pc>!</pc>
+                    <w>Nondum</w>
+                    <w>corpus</w>
+                    <w>exercere</w>
+                    <w>possum</w>
+                    <pc>,</pc>
+                    <lb n="{'hermeneus': '10', 'original': '10'}"> </lb>
+                    <w>adhuc</w>
+                    <w>e</w>
+                    <w>vulnere</w>
+                    <w>malo</w>
+                    <w>me</w>
+                    <w>recreo</w>
+                    <pc>.</pc>
+                    <w>Domum</w>
+                    <w>decedere</w>
+                    <w>debeo</w>
+                    <pc>.</pc>
+                    <pc>“</pc>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

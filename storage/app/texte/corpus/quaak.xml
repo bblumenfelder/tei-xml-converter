@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.hermeneus.eu/tei/schema/tei_hermeneus.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Carmina</title>
+        <author>Catull</author>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>hermeneus (Benedikt Blumenfelder)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>published on hermeneus.eu by user current_user</p>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Carmina</title>
+        <title type="sub"/>
+        <respStmt>
+          <resp>text analyzed and edited by</resp>
+          <name>current_user</name>
+        </respStmt>
+        <biblScope>Catull.  9 / 8, 1 / 8, 2 / 8, 3</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <p>t04720012E. T. Merrill; Medford, MA 1893</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><milestone unit="textstelle" n="9"/>
+    
+      
+      <lb n="{'original':'1','hermeneus':'1'}"/><w>Verani</w><pc>,</pc><w>omnibus</w><w>e</w><w>meis</w><w>amicis</w>
+      <lb n="{'original':'2','hermeneus':'2'}"/><w>antistans</w><w>mihi</w><w>milibus</w><w>trecentis</w><pc>,</pc>
+      <lb n="{'original':'3','hermeneus':'3'}"/><w>venistine</w><w>domum</w><w>ad</w><w>tuos</w><w>penates</w>
+      <lb n="{'original':'4','hermeneus':'4'}"/><w>fratresque</w><w>unanimos</w><w>anumque</w><w>matrem</w><pc>?</pc>
+      <lb n="{'original':'5','hermeneus':'5'}"/><w>venisti</w><pc>!</pc><w>o</w><w>mihi</w><w>nuntii</w><w>beati</w><pc>!</pc>
+      <lb n="{'original':'6','hermeneus':'6'}"/><w>visam</w><w>te</w><w>incolumem</w><w>audiamque</w><w>Hiberum</w>
+      <lb n="{'original':'7','hermeneus':'7'}"/><w>narrantem</w><w>loca</w><pc>,</pc><w>facta</w><pc>,</pc><w>nationes</w><pc>,</pc>
+      <lb n="{'original':'8','hermeneus':'8'}"/><w>ut</w><w>mos</w><w>est</w><w>tuus</w><pc>,</pc><w>applicansque</w><w>collum</w>
+      <lb n="{'original':'9','hermeneus':'9'}"/><w>iucundum</w><w>os</w><w>oculosque</w><w>saviabor</w><pc>.</pc>
+      <lb n="{'original':'10','hermeneus':'10'}"/><w>o</w><pc>,</pc><w>quantum</w><w>est</w><w>hominum</w><w>beatiorum</w><pc>,</pc>
+      <lb n="{'original':'11','hermeneus':'11'}"/><w>quid</w><w>me</w><w>laetius</w><w>est</w><w>beatiusve</w><pc>?</pc>
+    
+  <milestone unit="textstelle" n="8, 1"/>
+    <lb n="{'original':'1','hermeneus':'12'}"/><w>Miser</w><w>Catulle</w><pc>,</pc><w>desinas</w><w>ineptire</w><pc>,</pc>
+  <milestone unit="textstelle" n="8, 2"/>
+    <lb n="{'original':'2','hermeneus':'13'}"/><w>et</w><w>quod</w><w>vides</w><w>perisse</w><w>perditum</w><w>ducas</w><pc>.</pc>
+  <milestone unit="textstelle" n="8, 3"/>
+    <lb n="{'original':'3','hermeneus':'14'}"/><w>fulsere</w><w>quondam</w><w>candidi</w><w>tibi</w><w>soles</w><pc>,</pc>
+  </p>
+    </body>
+  </text>
+</TEI>

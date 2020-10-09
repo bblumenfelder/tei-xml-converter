@@ -1,0 +1,34 @@
+[
+  {
+    "remove_tagnames_textcontent": [
+      "note",
+      "sic"
+    ],
+    "remove_tagnames_only": [
+      "choice",
+      "corr",
+      "date",
+      "foreign",
+      "gap",
+      "head",
+      "hi",
+      "label",
+      "milestone",
+      "num",
+      "pb",
+      "q",
+      "quote",
+      "ref",
+      "reg",
+      "seg"
+    ],
+    "allowed_tags": [
+      "div",
+      "p",
+      "w",
+      "lb",
+      "milestone",
+      "pc"
+    ]
+  }
+]

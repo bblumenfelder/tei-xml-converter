@@ -1,0 +1,30 @@
+[
+  {
+    "phi_id_to_highest_subsection": {
+      "t04480012": "book",
+      "t04480021": "book",
+      "t04720012": "poem",
+      "t04740571": "book",
+      "t08600012": "book",
+      "t12540012": "book",
+      "t12940022": "book",
+      "t05880232": "chapter",
+      "t05880072": "chapter",
+      "t09590062": "book",
+      "t09590042": "book",
+      "t09590012": "book",
+      "t13480112": "chapter",
+      "t13480122": "chapter",
+      "t06900032": "chapter"
+    },
+    "highest_subsection_to_german_description": {
+      "book": "Buch",
+      "chapter": "Kapitel",
+      "section": "Abschnitt",
+      "letter": "Brief",
+      "poem": "Gedicht",
+      "act": "Akt",
+      "actio": "Actio"
+    }
+  }
+]

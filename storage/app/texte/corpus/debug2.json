@@ -1,0 +1,42 @@
+{
+  "type": "corpus",
+  "author": "ich",
+  "title": "as",
+  "subtitle": "",
+  "source": "",
+  "locus": "Caes. Gall. 1, 2",
+  "shared": "0",
+  "phi_id": "t04720012",
+  "extraction": [
+    {
+      "word_count": 75,
+      "locus": "25",
+      "xml": "<div type=\"textpart\" subtype=\"poem\" n=\"25\" class=\"textr-highest-subsection textpart-expanded\"><milestone unit=\"meter\" n=\"Iambic tetrameter catalectic\"><\/milestone><l n=\"1\" class=\"textpart_selectable\">Cinaede Thalle, mollior cuniculi capillo <\/l><l n=\"2\" class=\"textpart_selectable\">vel anseris medullula vel imula auricilla <\/l><l n=\"3\" class=\"textpart_selectable\">vel pene languido senis situque araneoso, <\/l><l n=\"4\" class=\"textpart_selectable\">idemque Thalle turbida rapacior procella, <\/l><l n=\"5\" class=\"textpart_selectable\">cum \u2020 diva mulier aries ostendit oscitantes, <\/l><l n=\"6\" class=\"textpart_selectable\">remitte pallium mihi meum quod involasti <\/l><l n=\"7\" class=\"textpart_selectable\">sudariumque Saetabum catagraphosque Thynos, <\/l><l n=\"8\" class=\"textpart_selectable\">inepte, quae palam soles habere tanquam avita. <\/l><l n=\"9\" class=\"textpart_selectable\">quae nunc tuis ab unguibus reglutina et remitte, <\/l><l n=\"10\" class=\"textpart_selectable\">ne laneum latusculum manusque mollicellas <\/l><l n=\"11\" class=\"textpart_selectable\">inusta turpiter tibi flagella conscribillent, <\/l><l n=\"12\" class=\"textpart_selectable\">et insolenter aestues velut minuta magno <\/l><l n=\"13\" class=\"textpart_selectable\">deprensa navis in mari vesaniente vento. <\/l><\/div>"
+    },
+    {
+      "word_count": 4,
+      "locus": "3, 1",
+      "xml": "<l n=\"1\" class=\"textpart_selectable\">Lugete, o Veneres Cupidinesque<\/l>"
+    },
+    {
+      "word_count": 5,
+      "locus": "3, 2",
+      "xml": "<l n=\"2\" class=\"textpart_selectable\">et quantum est hominum venustiorum!<\/l>"
+    },
+    {
+      "word_count": 4,
+      "locus": "3, 4",
+      "xml": "<l n=\"4\" class=\"textpart_selectable\">passer, deliciae meae puellae,<\/l>"
+    },
+    {
+      "word_count": 6,
+      "locus": "3, 5",
+      "xml": "<l n=\"5\" class=\"textpart_selectable\">quem plus illa oculis suis amabat;<\/l>"
+    },
+    {
+      "word_count": 9,
+      "locus": "105",
+      "xml": "<div type=\"textpart\" subtype=\"poem\" n=\"105\" class=\"textr-highest-subsection textpart-expanded\"><milestone unit=\"meter\" n=\"Elegiac\"><\/milestone><l n=\"1\" class=\"textpart_selectable\">Mentula conatur Pipleum scandere montem: <\/l><l n=\"2\" class=\"textpart_selectable\">Musae furcillis praecipitem eiciunt. <\/l><\/div>"
+    }
+  ]
+}null[{"word_count":119,"locus":"2, 1","xml":"<div type=\"textpart\" subtype=\"chapter\" n=\"1\" class=\"textpart_selectable\"><div type=\"textpart\" subtype=\"section\" n=\"1\" class=\"textpart_selectable\"><p>Cum esset Caesar in citeriore Gallia [in hibernis], ita uti supra demonstravimus, crebri ad eum rumores adferebantur litterisque item Labieni certior fiebat omnes Belgas, quam tertiam esse Galliae partem dixeramus, contra populum Romanum coniurare obsidesque inter se dare. <\/p><\/div><div type=\"textpart\" subtype=\"section\" n=\"2\" class=\"textpart_selectable\"><p>Coniurandi has esse causas: primum quod vererentur ne, omni pacata Gallia, ad eos exercitus noster adduceretur; <\/p><\/div><div type=\"textpart\" subtype=\"section\" n=\"3\" class=\"textpart_selectable\"><p>deinde quod ab non nullis Gallis sollicitarentur, partim qui, ut Germanos diutius in Gallia versari noluerant, ita populi Romani exercitum hiemare atque inveterascere in Gallia moleste ferebant, partim qui mobilitate et levitate animi novis imperiis studebant; <\/p><\/div><div type=\"textpart\" subtype=\"section\" n=\"4\" class=\"textpart_selectable\"><p>ab non nullis etiam quod in Gallia a potentioribus atque iis qui ad conducendos homines facultates habebant vulgo regna occupabantur; qui minus facile eam rem imperio nostro consequi poterant. <\/p><\/div><\/div>"},{"word_count":10,"locus":"2, 2, 2","xml":"<div type=\"textpart\" subtype=\"section\" n=\"2\" class=\"textpart_selectable\"><p>Ipse, cum primum pabuli copia esse inciperet, ad exercitum venit. <\/p><\/div>"},{"word_count":14,"locus":"2, 6, 3","xml":"<div type=\"textpart\" subtype=\"section\" n=\"3\" class=\"textpart_selectable\"><p>Nam cum tanta multitudo lapides ac tela \u2020coicerent\u2020, in muro consistendi potestas erat nulli. <\/p><\/div>"}]

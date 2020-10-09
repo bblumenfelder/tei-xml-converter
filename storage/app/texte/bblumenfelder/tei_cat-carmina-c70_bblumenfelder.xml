@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Carmina</title>
+        <author>C. Valerius Catullus</author>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>hermeneus (Benedikt Blumenfelder)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Carmen 70</p>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Der Liebesschwur</title>
+        <title type="sub">Wie soll man mit weiblichen Versprechungen umgehen? Catull liefert uns folgende Antwort:</title>
+        <respStmt>
+          <resp>text analyzed and edited by</resp>
+          <name>bblumenfelder</name>
+        </respStmt>
+        <biblScope>Carmen 70</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <p>null</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="textpart">
+        <lb n="{'original':'1','hermeneus':'1'}"> </lb>
+        <s xml:id="delimit_s_0">
+          <cl xml:id="mark_hs_4" type="hs">
+            <w lemma="[{'lemma':'nullus','bedeutung':'kein','wortart':'Pronomen','id':8,'bestimmungen':[['pronomen','normal','sg','mask','dat'],['pronomen','normal','sg','mask','vok'],['pronomen','normal','sg','fem','dat'],['pronomen','normal','sg','neutr','dat'],['pronomen','normal','pl','mask','nom'],['pronomen','normal','pl','mask','vok']]}]">Nulli</w>
+            <w lemma="[{'lemma':'se','bedeutung':'sich (Akk.)','wortart':'Pronomen','id':49,'bestimmungen':''},{'lemma':'se','bedeutung':'sich (Akk.), sich (Dat.), mit sich','wortart':'Pronomen','id':50,'bestimmungen':''}]">se</w>
+            <w lemma="[{'lemma':'dicere','bedeutung':'sagen, sprechen, nennen','wortart':'Verb','id':33,'bestimmungen':[['verb','aktiv','praesens','indikativ','sg3']]}]" ana="assign_pred" function="predicate">dicit</w>
+            <w lemma="[{'lemma':'mulier','bedeutung':'die Frau','wortart':'Nomen','id':132,'bestimmungen':[['nomen','sg','nom'],['nomen','sg','vok']]}]">mulier</w>
+            <w lemma="[{'lemma':'meus','bedeutung':'mein','wortart':'Pronomen','id':39,'bestimmungen':[['pronomen','normal','sg','fem','nom'],['pronomen','normal','sg','fem','vok'],['pronomen','normal','sg','fem','abl'],['pronomen','normal','pl','neutr','nom'],['pronomen','normal','pl','neutr','akk'],['pronomen','normal','pl','neutr','vok']]}]">mea</w>
+            <w lemma="[{&quot;lemma&quot;:&quot;nubere&quot;,&quot;bedeutung&quot;:&quot;heiraten (m. Dativ)&quot;,&quot;wortart&quot;:&quot;Verb&quot;,&quot;id&quot;:535,&quot;bestimmungen&quot;:[[&quot;verb&quot;,&quot;aktiv&quot;,&quot;praesens&quot;,&quot;infinitiv&quot;],[&quot;verb&quot;,&quot;passiv&quot;,&quot;praesens&quot;,&quot;imperativ&quot;,&quot;sg2&quot;]],&quot;isActual&quot;:false}]">nubere</w>
+            <w lemma="[{'lemma':'malle','bedeutung':'lieber wollen','wortart':'Verb','id':108,'bestimmungen':[['verb','aktiv','praesens','indikativ','sg1'],['verb','aktiv','praesens','infinitiv']]}]">malle</w>
+            <lb n="{'original':'2','hermeneus':'2'}"> </lb>
+            <w lemma="[{'lemma':'quam','bedeutung':'als','wortart':'Partikel','id':32,'bestimmungen':''},{'lemma':'quam','bedeutung':'wie','wortart':'Partikel','id':51,'bestimmungen':''},{'lemma':'quam','bedeutung':'wie','wortart':'Partikel','id':115,'bestimmungen':''},{'lemma':'quam','bedeutung':'m\u00f6glichst','wortart':'Partikel','id':116,'bestimmungen':''},{'lemma':'qui','bedeutung':'der, die, das, welcher, welche, welches','wortart':'Pronomen','id':51,'bestimmungen':[['pronomen','normal','sg','fem','akk']]}]">quam</w>
+            <w lemma="[{'lemma':'mihi','bedeutung':'mir ','wortart':'Pronomen','id':34,'bestimmungen':''}]">mihi</w>
+            <pc>,</pc>
+          </cl>
+          <cl xml:id="mark_ns1_0" type="ns1">
+            <w lemma="[{'lemma':'non','bedeutung':'nicht','wortart':'Partikel','id':190,'bestimmungen':''}]">non</w>
+            <w lemma="[{'lemma':'si','bedeutung':'wenn, falls','wortart':'Partikel','id':224,'bestimmungen':''}]">si</w>
+            <w lemma="[{'lemma':'se','bedeutung':'sich (Akk.)','wortart':'Pronomen','id':49,'bestimmungen':''},{'lemma':'se','bedeutung':'sich (Akk.), sich (Dat.), mit sich','wortart':'Pronomen','id':50,'bestimmungen':''}]" corresp="annotation0">se</w>
+            <w lemma="[]">Iuppiter</w>
+            <w lemma="[{'lemma':'ipse','bedeutung':'selbst, gerade, pers\u00f6nlich','wortart':'Pronomen','id':4,'bestimmungen':''}]">ipse</w>
+            <w lemma="[{'lemma':'petere','bedeutung':'bitten, erstreben, aufsuchen, angreifen','wortart':'Verb','id':65,'bestimmungen':[['verb','aktiv','praesens','konjunktiv','sg3']]}]">petat</w>
+            <pc>.</pc>
+          </cl>
+        </s>
+        <lb n="{'original':'3','hermeneus':'3'}"> </lb>
+        <s xml:id="delimit_s_1">
+          <cl xml:id="mark_hs_5" type="hs">
+            <w lemma="[{'lemma':'dicere','bedeutung':'sagen, sprechen, nennen','wortart':'Verb','id':33,'bestimmungen':[['verb','aktiv','praesens','indikativ','sg3']]}]" ana="assign_pred" function="predicate">dicit</w>
+            <pc>:</pc>
+          </cl>
+        </s>
+        <s xml:id="delimit_s_2">
+          <cl xml:id="mark_hs_6" type="hs">
+            <w lemma="[{'lemma':'sed','bedeutung':'aber, doch, jedoch, sondern','wortart':'Partikel','id':166,'bestimmungen':''}]">sed</w>
+          </cl>
+          <cl xml:id="mark_ns1_5" type="ns1">
+            <w lemma="[{'lemma':'mulier','bedeutung':'die Frau','wortart':'Nomen','id':132,'bestimmungen':[['nomen','sg','nom'],['nomen','sg','vok']]}]">mulier</w>
+            <w lemma="[{&quot;lemma&quot;:&quot;cupidus&quot;,&quot;bedeutung&quot;:&quot;(be)gierig&quot;,&quot;wortart&quot;:&quot;Adjektiv&quot;,&quot;id&quot;:89,&quot;bestimmungen&quot;:[[&quot;pos&quot;,&quot;sg&quot;,&quot;mask&quot;,&quot;dat&quot;],[&quot;pos&quot;,&quot;sg&quot;,&quot;mask&quot;,&quot;abl&quot;],[&quot;pos&quot;,&quot;sg&quot;,&quot;neutr&quot;,&quot;dat&quot;],[&quot;pos&quot;,&quot;sg&quot;,&quot;neutr&quot;,&quot;abl&quot;]],&quot;isActual&quot;:false}]">cupido</w>
+            <w lemma="[{&quot;lemma&quot;:&quot;quod&quot;,&quot;bedeutung&quot;:&quot;weil, dass&quot;,&quot;wortart&quot;:&quot;Partikel&quot;,&quot;id&quot;:234,&quot;bestimmungen&quot;:&quot;&quot;,&quot;isActual&quot;:false},{&quot;lemma&quot;:&quot;qui&quot;,&quot;bedeutung&quot;:&quot;der, die, das, welcher, welche, welches&quot;,&quot;wortart&quot;:&quot;Pronomen&quot;,&quot;id&quot;:51,&quot;bestimmungen&quot;:[[&quot;pronomen&quot;,&quot;normal&quot;,&quot;sg&quot;,&quot;neutr&quot;,&quot;nom&quot;],[&quot;pronomen&quot;,&quot;normal&quot;,&quot;sg&quot;,&quot;neutr&quot;,&quot;akk&quot;],[&quot;pronomen&quot;,&quot;normal&quot;,&quot;sg&quot;,&quot;neutr&quot;,&quot;vok&quot;]],&quot;isActual&quot;:true}]">quod</w>
+            <w lemma="[{'lemma':'dicere','bedeutung':'sagen, sprechen, nennen','wortart':'Verb','id':33,'bestimmungen':[['verb','aktiv','praesens','indikativ','sg3']]}]">dicit</w>
+            <w lemma="[{'lemma':'amare','bedeutung':'lieben, m\u00f6gen','wortart':'Verb','id':21,'bestimmungen':[['verb','aktiv','praesens','partizip','sg','fem','dat'],['verb','aktiv','praesens','partizip','sg','mask','dat'],['verb','aktiv','praesens','partizip','sg','neutr','dat']]}]">amanti</w>
+          </cl>
+          <lb n="{'original':'4','hermeneus':'4'}"> </lb>
+          <cl xml:id="mark_hs_7" type="hs">
+            <w lemma="[{'lemma':'in','bedeutung':'in, an, auf, bei','wortart':'Partikel','id':198,'bestimmungen':''},{'lemma':'in','bedeutung':'in (... hinein), auf, nach, gegen','wortart':'Partikel','id':199,'bestimmungen':''}]" corresp="annotation1">in</w>
+            <w lemma="[{'lemma':'ventus','bedeutung':'der Wind','wortart':'Nomen','id':466,'bestimmungen':[['nomen','sg','abl'],['nomen','sg','dat']]},{'lemma':'venire','bedeutung':'kommen','wortart':'Verb','id':19,'bestimmungen':[['verb','passiv','perfekt','partizip','sg','mask','abl'],['verb','passiv','perfekt','partizip','sg','mask','dat'],['verb','passiv','perfekt','partizip','sg','neutr','abl'],['verb','passiv','perfekt','partizip','sg','neutr','dat']]}]" corresp="annotation1">vento</w>
+            <w lemma="[{'lemma':'et','bedeutung':'und','wortart':'Partikel','id':163,'bestimmungen':''}]" corresp="annotation1">et</w>
+            <w lemma="[{'lemma':'rapidus','bedeutung':'rei\u00dfend (schnell)','wortart':'Adjektiv','id':216,'bestimmungen':[['adjektiv','pos','sg','fem','nom'],['adjektiv','pos','sg','fem','vok'],['adjektiv','pos','sg','fem','abl'],['adjektiv','pos','pl','neutr','nom'],['adjektiv','pos','pl','neutr','akk'],['adjektiv','pos','pl','neutr','vok']]}]" corresp="annotation1">rapida</w>
+            <w lemma="[{'lemma':'scribere','bedeutung':'schreiben','wortart':'Verb','id':214,'bestimmungen':[['verb','aktiv','praesens','infinitiv'],['verb','passiv','praesens','imperativ','sg2']]}]" corresp="annotation1">scribere</w>
+            <w lemma="[{'lemma':'oportet','bedeutung':'es geh\u00f6rt sich, man muss','wortart':'Verb','id':133,'bestimmungen':[['verb','aktiv','praesens','indikativ','sg3']]}]">oportet</w>
+            <w lemma="[{'lemma':'aqua','bedeutung':'das Wasser','wortart':'Nomen','id':251,'bestimmungen':[['nomen','sg','abl'],['nomen','sg','nom'],['nomen','sg','vok']]}]" corresp="annotation1">aqua</w>
+            <pc>.</pc>
+          </cl>
+        </s>
+      </div>
+      <div type="commentary">
+        <interpGrp>
+          <interp xml:id="annotation0">bezieht sich auf mulier</interp>
+          <interp xml:id="annotation1">etwas in Wind und Wasser schreiben, d.h. umsonst schreiben, weil es schnell verweht oder fortgetrieben wird.</interp>
+        </interpGrp>
+      </div>
+    </body>
+  </text>
+</TEI>

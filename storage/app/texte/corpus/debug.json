@@ -1,0 +1,17 @@
+[
+  {
+    "word_count": 119,
+    "locus": "2, 1",
+    "xml": "<div type=\"textpart\" subtype=\"chapter\" n=\"1\" class=\"textpart_selectable\"><div type=\"textpart\" subtype=\"section\" n=\"1\" class=\"textpart_selectable\"><p>Cum esset Caesar in citeriore Gallia [in hibernis], ita uti supra demonstravimus, crebri ad eum rumores adferebantur litterisque item Labieni certior fiebat omnes Belgas, quam tertiam esse Galliae partem dixeramus, contra populum Romanum coniurare obsidesque inter se dare. <\/p><\/div><div type=\"textpart\" subtype=\"section\" n=\"2\" class=\"textpart_selectable\"><p>Coniurandi has esse causas: primum quod vererentur ne, omni pacata Gallia, ad eos exercitus noster adduceretur; <\/p><\/div><div type=\"textpart\" subtype=\"section\" n=\"3\" class=\"textpart_selectable\"><p>deinde quod ab non nullis Gallis sollicitarentur, partim qui, ut Germanos diutius in Gallia versari noluerant, ita populi Romani exercitum hiemare atque inveterascere in Gallia moleste ferebant, partim qui mobilitate et levitate animi novis imperiis studebant; <\/p><\/div><div type=\"textpart\" subtype=\"section\" n=\"4\" class=\"textpart_selectable\"><p>ab non nullis etiam quod in Gallia a potentioribus atque iis qui ad conducendos homines facultates habebant vulgo regna occupabantur; qui minus facile eam rem imperio nostro consequi poterant. <\/p><\/div><\/div>"
+  },
+  {
+    "word_count": 38,
+    "locus": "2, 1, 1",
+    "xml": "<div type=\"textpart\" subtype=\"section\" n=\"1\" class=\"textpart_selectable\"><p>Cum esset Caesar in citeriore Gallia [in hibernis], ita uti supra demonstravimus, crebri ad eum rumores adferebantur litterisque item Labieni certior fiebat omnes Belgas, quam tertiam esse Galliae partem dixeramus, contra populum Romanum coniurare obsidesque inter se dare. <\/p><\/div>"
+  },
+  {
+    "word_count": 16,
+    "locus": "2, 1, 2",
+    "xml": "<div type=\"textpart\" subtype=\"section\" n=\"2\" class=\"textpart_selectable\"><p>Coniurandi has esse causas: primum quod vererentur ne, omni pacata Gallia, ad eos exercitus noster adduceretur; <\/p><\/div>"
+  }
+]

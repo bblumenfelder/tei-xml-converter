@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.hermeneus.eu/tei/schema/tei_hermeneus.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dummy Titel</title>
+                <author/>
+                <respStmt>
+                    <resp>compiled by</resp>
+                    <name>hermeneus (Benedikt Blumenfelder)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>published on hermeneus.eu by user user@domain.de</p>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Dummy Titel</title>
+                <title type="sub">Ein toller Untertitel</title>
+                <respStmt>
+                    <resp>text analyzed and edited by</resp>
+                    <name>user@domain.de</name>
+                </respStmt>
+                <biblScope>Buch X, Stelle y</biblScope>
+            </seriesStmt>
+            <sourceDesc>
+                <p>S. 343</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="textpart">
+                <p>
+                    <w>Coniunx</w>
+                    <w>eius</w>
+                    <pc>,</pc>
+                    <w>postquam</w>
+                    <w>omnia</w>
+                    <w>a</w>
+                    <w>Faustulo</w>
+                    <w>audivit</w>
+                    <pc>,</pc>
+                    <w>pueros</w>
+                    <w>suscepit</w>
+                    <w>et</w>
+                    <w>dixit</w>
+                    <pc>:</pc>
+                    <pc pre="true">„</pc>
+                    <w>Pueros</w>
+                    <pc>,</pc>
+                    <w>quos</w>
+                    <w>invenisti</w>
+                    <pc>,</pc>
+                    <w>ut</w>
+                    <w>meos</w>
+                    <w>filios</w>
+                    <w>alam</w>
+                    <pc>,</pc>
+                    <w>quia</w>
+                    <w>puto</w>
+                    <w>te</w>
+                    <pc>,</pc>
+                    <lb n="1"> </lb>
+                    <w>Faustule</w>
+                    <pc>,</pc>
+                    <w>signum</w>
+                    <w>deorum</w>
+                    <w>vidisse</w>
+                    <pc>:</pc>
+                    <w>Dei</w>
+                    <w>volunt</w>
+                    <w>nos</w>
+                    <w>pueros</w>
+                    <w>curare</w>
+                    <w>et</w>
+                    <w>alere</w>
+                    <pc>.</pc>
+                    <milestone> </milestone>
+                    <s>
+                        <w>Causam</w>
+                        <w>ignoro</w>
+                        <pc>,</pc>
+                        <w>sed</w>
+                        <w>unum</w>
+                        <w>scio</w>
+                        <pc>:</pc>
+                        <w>Si</w>
+                        <w>deis</w>
+                        <w>paremus</w>
+                        <pc>,</pc>
+                        <w>certe</w>
+                        <w>non</w>
+                        <w>erramus</w>
+                        <pc>.</pc>
+                        <pc pre="false">“</pc>
+                    </s>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
